@@ -1,3 +1,4 @@
 # blue
-this is my first repository
-Author Arvind Verma
+this is my first repository.
+<br>
+Author-Arvind Verma
