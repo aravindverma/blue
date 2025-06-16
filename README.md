@@ -1,4 +1,4 @@
 # blue
 this is my first repository.
 <br>
-Author-Arvind Verma
+Author-Arvind (blue)
